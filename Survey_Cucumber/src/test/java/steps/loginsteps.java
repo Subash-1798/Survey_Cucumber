@@ -47,8 +47,6 @@ public class loginsteps {
 	Actions action;
 	JavascriptExecutor js;
 	
-	LocalTime currentTime = LocalTime.now();
-	DateTimeFormatter formatter = DateTimeFormatter.ofPattern("hh:mm a");
 
 	
 	
